@@ -8,7 +8,7 @@ I'm a self-taught software developer focused on backend and full-stack developme
 
 - Building a full-stack **Task Manager App** using Java, Spring Boot, React, and PostgreSQL.
 - Strengthening my CS fundamentals.
-- Continuously learning: Java, Spring, Web Security, Docker, and System Design.
+- Continuously learning: Java, Spring, Algorithms, and System Design.
 
 ---
 
